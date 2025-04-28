@@ -1,3 +1,17 @@
-dfasodipff
-zomaar 
-een ingedient of 2?
+<<<< HEAD
+=======
+
+af
+d
+sf
+asd
+f
+as
+df
+sn
+dfa
+moeten hier ook ingredienten bij?
+
+
+
+>>>>>>> ideas
